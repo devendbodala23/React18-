@@ -25,7 +25,7 @@ Note: Variables are not recommended to handle data for component.
 	c) useRef()
 	d) useMemo()
 	e) useCallBack()
-	f) useReducer()
+	f) useReducer() 
 	etc..
 
 - State is mutable.
