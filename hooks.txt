@@ -5,7 +5,7 @@ React Hooks [Functions]
 Data Binding
 - Number
 - Boolean
-- String
+- String 
 
 
 						   Undefined Type
