@@ -1,4 +1,4 @@
-						Event Binding in React
+Event Binding in React
 
 1. What is Event?
 A. Event is a message sent by sender to its subscriber in order to notify the change.
