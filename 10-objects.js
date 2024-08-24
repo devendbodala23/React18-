@@ -1,6 +1,5 @@
 Object
 
-
 - Object is used to keep all related data and logic together. 
 - It is key and value collection.
 - Key is string type and value can be any type.
