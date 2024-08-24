@@ -113,6 +113,8 @@ Ex:
 </body>
 </html>
 
+
+
 Ex:
 <!DOCTYPE html>
 <html lang="en">
@@ -157,8 +159,9 @@ Syntax:
 		   e.target.id;
 		   e.target.name;
 		   e.target.className;
-
+		  
 	})
+
 
 Ex:
 <!DOCTYPE html>
