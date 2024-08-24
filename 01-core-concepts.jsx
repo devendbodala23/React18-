@@ -5,7 +5,7 @@ React
 - HTML, CSS, JavaScript
 - Basic to Advanced
 - MERN Stack
-	
+
 		M		MongoDB
 		E		Express JS
 		R		React JS
@@ -37,7 +37,7 @@ A. React up to 17x is legacy.		https://legacy.reactjs.org/
 A. To address the challenges in modern web development.
 
 7. What are the challenges in modern web development?
-A. 
+A.
 	1. Unified UX
 	2. Fluid UX
 	3. Loosely Coupled & Extensible 
@@ -45,12 +45,12 @@ A.
 8. What is the solution?
 A. By building SPA [Single Page Application] & PWA [Progressive Web Application]
 
-
 9. How to build SPA & PWA?
 A.  You can build using JavaScript, jQuery, React, Angular, Vue, Knockout Js, BackBone, Ember JS.
 
 10. What are issues in building a SPA with JS & jQuery?
 A.
+
 	- Lot of DOM manipulations
 	- Lot of DOM interactions
 	- Lot of explicit Ajax
