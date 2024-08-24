@@ -22,7 +22,6 @@ A. Shadow DOM is a hierarchy of elements in a component.
 A. It is a copy of actual DOM is memory, React uses virtual DOM to update the UI.
     It makes the rendering and presentation look faster than normal. 
 
-
 Issues with React:
 - It is not designed for what you are using.
 - Hence lot of GAP's.
